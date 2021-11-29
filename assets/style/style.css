@@ -1,0 +1,13 @@
+#selfie {
+	width: 200px;
+	height: auto;
+}
+
+i {
+	color: black;
+}
+
+i:hover {
+	cursor: pointer;
+	color: darkslategrey;
+}
