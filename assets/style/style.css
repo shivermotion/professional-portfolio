@@ -11,3 +11,7 @@ i:hover {
 	cursor: pointer;
 	color: darkslategrey;
 }
+
+figure > img:hover {
+	cursor: pointer;
+}
